@@ -200,7 +200,7 @@ class User {
     }
     showUserRole(canShow: boolean) {
         if(canShow) {
-            console.log(`A Rola do usuário é: ${this.role}`);
+            console.log(`A Role do usuário é: ${this.role}`);
             return;
         }
         console.log('Informação restrita');
