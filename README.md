@@ -5,5 +5,5 @@
 4. <code>tsc -w</code> : automatic building
 
 **_Atenção para tais referências:_**
-1. <code>"rootDir": "./{main file folder}index.ts"</code>
+1. <code>"rootDir": "./{main file folder}src"</code>
 2. <code>"outDir": "./{production folder}dist/{transpiled folder}script/"</code>
